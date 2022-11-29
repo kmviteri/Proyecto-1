@@ -2,7 +2,7 @@
 ![espe](https://user-images.githubusercontent.com/117187676/204173965-f5741989-1012-4150-a4ec-1722212ee733.png)
 # INTEGRANTES
 * Kevin Mauricio Viteri
-* 
+* Dennis Stalin Jaguaco Veloso
 * 
 # 1. OBJETIVOS
 ## OBJETIVO GENERAL
@@ -41,5 +41,7 @@ https://youtu.be/rDntj3OxKww
 # 6. BIBLIOGRAFIA
 
 * Martín Pereda, J. A., & Rodríguez Rodríguez, T. (1978). Componentes electrónicos. Departamento de Publicaciones, Escuela Técnica Superior de Ingenieros de Telecomunicación.
+
 * Holonyak, N., & Feng, M. (2006). The transistor laser. IEEE Spectrum, 43(2), 50-55.
-TOP 5 Proyectos Electrónicos con Transistores [Video]. (2020). Recuperado de https://www.youtube.com/watch?v=_xvCoOR89o4 
+
+* TOP 5 Proyectos Electrónicos con Transistores [Video]. (2020). Recuperado de https://www.youtube.com/watch?v=_xvCoOR89o4 
