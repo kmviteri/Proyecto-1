@@ -21,3 +21,25 @@ Se procedera a explicar el funcionamiento y las caracteristicas de los component
 
 ![Marco teórico_page-0004](https://user-images.githubusercontent.com/117187676/204414733-6dfe6d56-65c2-47f5-bff6-3aaaef376577.jpg)
 
+# 3. PROCEDIMIENTO Y ESQUEMAS
+
+![grgrg_page-0001](https://user-images.githubusercontent.com/117187676/204429040-a457ae3e-336f-4e64-96fc-e327d71c1e94.jpg)
+
+![grgrg_page-0002](https://user-images.githubusercontent.com/117187676/204429017-77f0c8e7-e6e4-42a4-8a3a-804060b1600b.jpg)
+
+# 4. VIDEO
+
+https://youtu.be/rDntj3OxKww 
+
+# 5. CONCLUSIONES
+
+* Se puede concluir que, gracias a el seguimiento de las instrucciones y los pasos mostrados en el video proporcionado, se pudo lograr un resultado efectivo, demostrando asi el funcionaciemto y proposito del circuito.
+
+* En conclusion, el uso de los diferentes compnentes electronicos empleados en la realizacion del circuito, se basa en las distintas funciones de cada uno de ellos, por lo que con una investigacion cinetifica y empirica se logro los resultados esperados.
+
+
+# 6. BIBLIOGRAFIA
+
+* Martín Pereda, J. A., & Rodríguez Rodríguez, T. (1978). Componentes electrónicos. Departamento de Publicaciones, Escuela Técnica Superior de Ingenieros de Telecomunicación.
+* Holonyak, N., & Feng, M. (2006). The transistor laser. IEEE Spectrum, 43(2), 50-55.
+TOP 5 Proyectos Electrónicos con Transistores [Video]. (2020). Recuperado de https://www.youtube.com/watch?v=_xvCoOR89o4 
