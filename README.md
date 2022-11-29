@@ -3,7 +3,7 @@
 # INTEGRANTES
 * Kevin Mauricio Viteri
 * Dennis Stalin Jaguaco Veloso
-* 
+* Alexis Omar Grijalva Nacevilla
 # 1. OBJETIVOS
 ## OBJETIVO GENERAL
 * Vizualizar y replicar los pasos e instrucciones del viedo proporcionado referente a la construccion de un circuito que permita la deteccion de obscuridad para que asi automaticamente una luz LED reaccione a esta mediante la aplicacion correcta de las instrucciones planteadas en el video 
